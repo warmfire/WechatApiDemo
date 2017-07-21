@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:14:5-65:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\warmfire\.android\build-cache\728b9868ae5370cde9764ac9e4fc12c8dade9d8a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\warmfire\.android\build-cache\a6430904f865c518f375e1acaae41a1e8bf28a91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\warmfire\.android\build-cache\2c4af7cc5663c27791a72dfcca65c96a04ca73d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\warmfire\.android\build-cache\ca0af96e88f473d517ac42d3caf240f348a0e8a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\warmfire\.android\build-cache\4bba850a6dd874627ea1fa825fd0aa9bd8544419\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\addc663bde015f5a43250b8ee5481fa2236e93ad\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\a4b242bcccaf3543fce0fc0a6ff3190c1c29d945\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\warmfire\.android\build-cache\ef9ff2a16bc1e5e1e1c9777151603b8e51ce7653\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\warmfire\.android\build-cache\be50130c3cbbc6b25a2d0b28c2c16eb0745fa32f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.wechatimgdemo.wxapi.WXEntryActivity
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:21:9-36:20
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:25:13-43
+	android:exported
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:22:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:28:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.VIEW
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:33:17-75
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:33:27-73
+data
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:34:17-51
+	android:scheme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:34:23-49
+activity#com.example.wechatimgdemo.SendToWXActivity
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:38:9-41:51
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.example.wechatimgdemo.GetFromWXActivity
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:43:9-46:51
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:44:13-46
+activity#com.example.wechatimgdemo.ShowFromWXActivity
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:48:9-51:51
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:49:13-47
+receiver#com.example.wechatimgdemo.AppRegister
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:53:9-59:20
+	android:permission
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:55:13-71
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:54:13-40
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:56:13-58:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:57:17-100
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:57:25-97
+activity#com.example.wechatimgdemo.ScanQRCodeLoginActivity
+ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:61:9-64:52
+	android:label
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:63:13-54
+	android:theme
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml:62:13-52
+uses-sdk
+INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\warmfire\.android\build-cache\728b9868ae5370cde9764ac9e4fc12c8dade9d8a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\warmfire\.android\build-cache\a6430904f865c518f375e1acaae41a1e8bf28a91\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\warmfire\.android\build-cache\2c4af7cc5663c27791a72dfcca65c96a04ca73d9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\warmfire\.android\build-cache\ca0af96e88f473d517ac42d3caf240f348a0e8a7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\warmfire\.android\build-cache\4bba850a6dd874627ea1fa825fd0aa9bd8544419\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\addc663bde015f5a43250b8ee5481fa2236e93ad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\a4b242bcccaf3543fce0fc0a6ff3190c1c29d945\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\warmfire\.android\build-cache\ef9ff2a16bc1e5e1e1c9777151603b8e51ce7653\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\warmfire\.android\build-cache\be50130c3cbbc6b25a2d0b28c2c16eb0745fa32f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpaces\Android Studio\WechatImgDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\warmfire\.android\build-cache\728b9868ae5370cde9764ac9e4fc12c8dade9d8a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\warmfire\.android\build-cache\a6430904f865c518f375e1acaae41a1e8bf28a91\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\warmfire\.android\build-cache\2c4af7cc5663c27791a72dfcca65c96a04ca73d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\warmfire\.android\build-cache\ca0af96e88f473d517ac42d3caf240f348a0e8a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\warmfire\.android\build-cache\4bba850a6dd874627ea1fa825fd0aa9bd8544419\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\addc663bde015f5a43250b8ee5481fa2236e93ad\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\warmfire\.android\build-cache\a4b242bcccaf3543fce0fc0a6ff3190c1c29d945\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\warmfire\.android\build-cache\ef9ff2a16bc1e5e1e1c9777151603b8e51ce7653\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\warmfire\.android\build-cache\962e77a987a54a1f804b3b64605df50d75a6b1d1\output\AndroidManifest.xml:26:9-47

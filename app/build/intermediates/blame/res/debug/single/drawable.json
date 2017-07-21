@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_act_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_music_thumb.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\send_music_thumb.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_listitem_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_normal.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_check_off_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_one_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_one_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_disable.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_listitem_disable.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_edit_focused.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_edit_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one_disabled.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn_focused.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_act_btn_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_one.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_mini_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_checkbox_mini_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one_focused.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\list_selector_background.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_listitem_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_background.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_right.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_btn_right.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_focused.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn_disable.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_act_btn_disable.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_btn.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu_normal.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_act_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_img.jpg",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\send_img.jpg"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_mini.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_checkbox_mini.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_top_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_top_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_edit.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_edit.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dialog_alert.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dialog_long_click.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_dialog_long_click.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on_disable.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_check_on_disable.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_one_item.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\preference_one_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu_pressed.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_disable.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_check_off_disable.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_mini_checked.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_checkbox_mini_checked.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on_normal.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_check_on_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_trans.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_trans.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_focused.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_bg.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_bg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_top_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_one_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\ic_preference_one_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button_pressed.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_back.xml",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_title_btn_back.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_edit_normal.9.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\drawable\\mm_edit_normal.9.png"
+    }
+]

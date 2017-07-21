@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\WorkSpaces\\Android Studio\\WechatImgDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\warmfire\.gradle\caches\modules-2\files-2.1\com.tencent.mm.opensdk\wechat-sdk-android-with-mta\1.3.4\1828cb5509a13d98d5d3db235320886d42f0ec2e\wechat-sdk-android-with-mta-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1828cb5509a13d98d5d3db235320886d42f0ec2e">
+        <dex dex="D:\WorkSpaces\Android Studio\WechatImgDemo\app\build\intermediates\pre-dexed\debug\wechat-sdk-android-with-mta-1.3.4_1ab653a6d9007489cee3f4cb62be097014ab0e74.jar" />
+    </item>
+
+</items>
